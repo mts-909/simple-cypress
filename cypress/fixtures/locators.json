@@ -1,0 +1,20 @@
+{
+    "homepage":{
+        "customerLoginBtn":".borderM div:nth-of-type(1) button",
+        "bankManagerLoginBtn":".borderM div:nth-of-type(2) button"
+
+    },
+    "addCustomer":{
+        "addCustomerTab": ".center button:nth-of-type(1)",
+        "firstName": ".form-group [ng-model='fName']",
+        "lastName": ".form-group [ng-model='lName']",
+        "postCode": ".form-group [ng-model='postCd']",
+        "addCustBtn": ".marTop form button"
+    },
+    "openAccount":{
+        "openAccountBtn":".center button:nth-of-type(2)",
+        "processBtn":".marTop form button",
+        "customer":"#userSelect",
+        "currency":"#currency"
+    }
+}

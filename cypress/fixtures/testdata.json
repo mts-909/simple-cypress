@@ -1,0 +1,17 @@
+{
+    "addCustomer":{
+        "fistName":"John",
+        "lastName":"Smith",
+        "postCode":"75203",
+        "alertMsg":"Customer added successfully",
+        "bankManagerUrl":"/banking/#/manager"
+    },
+    "openAccount":{
+        "customer":"4",
+        "currency":"Pound",
+        "alertMsg":"Account created successfully"
+    }
+    
+
+
+}
