@@ -1,0 +1,19 @@
+{
+  "name": "simple_project",
+  "version": "1.0.0",
+  "description": "\"# simple-cypress\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mts-909/simple-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mts-909/simple-cypress/issues"
+  },
+  "homepage": "https://github.com/mts-909/simple-cypress#readme"
+}
