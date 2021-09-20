@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mts-909/simple-cypress/issues"
   },
-  "homepage": "https://github.com/mts-909/simple-cypress#readme"
+  "homepage": "https://github.com/mts-909/simple-cypress#readme",
+  "devDependencies": {
+    "cypress": "^8.4.1"
+  }
 }

@@ -1,0 +1,7 @@
+{
+    "baseUrl":"https://www.way2automation.com/angularjs-protractor/banking/#/login",
+    "viewportWidth":1550,
+    "viewportHeight":950,
+    "defaultCommandTimeout": 20000,
+    "testFiles":"*/*.spec.js"
+}
